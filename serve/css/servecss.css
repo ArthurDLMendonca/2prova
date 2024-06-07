@@ -1,0 +1,102 @@
+*{
+    --primary-color:#447C9C;
+}
+
+body{
+    color: #000;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+.head-section{
+    background-image: linear-gradient(180deg, #B5C2CA, #ffffff);
+}
+
+.navbar-brand,
+.text-primary {
+    color: #447C9C !important;
+}
+
+.btn-primary{
+    background-color: #447C9C !important;
+    border: none;
+}
+
+.nav-link:hover {
+    color:#447C9C
+}
+
+P{
+    font-size:  18px;
+
+}
+
+.bnt-primary:hover{
+    background-color: #447C9C !important;
+}
+
+.blue-bg{
+    background-color: #447C9C;
+    color: #fff;
+}
+
+.ionicons{
+    color: #447C9C;
+    background-color: #ffffff;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 12px;
+
+}
+
+.nav-tabs{
+    border: none;
+}
+
+.nav-tabs .active{
+    background-color: #447C9C !important;
+    border: none;
+    color: #fff !important
+}
+
+.footer-section{
+    background-color: #B5C2CA !important;
+    border:none;
+    color: #fff !important;
+}
+.cor-especial{
+    color:#447C9C;
+}
+
+
+.borda-cor-especial{
+    border-color: #447C9C;
+}
+
+.botao-cor-especial{
+    background-color: #447C9C;
+    color:white;
+}
+
+.botao-cor-especial:hover{
+    background-color: #447C9C;
+    color: white;
+}
+
+.card-posicao-imagem{
+    object-fit:initial;
+    height:300px;
+}
+
+.card-largura{
+    max-width: 18rem;
+}
